@@ -12,7 +12,7 @@ from helpers.licence_helper import construct_expiration_date
 
 
 logger = logging.getLogger(__name__)
-UPDATE_CHANNEL_ID = 625404542535598090
+UPDATE_CHANNEL_ID = 1122124358001889422
 
 
 class BotOwnerCommands(commands.Cog):
