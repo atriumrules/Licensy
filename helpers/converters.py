@@ -70,7 +70,7 @@ def license_duration(input_duration: str) -> int:
             instead, since this is a converter)
 
     """
-    max_hours = 8784
+    max_hours = 876600
     try:
         duration = positive_integer(input_duration)
     except ValueError:
